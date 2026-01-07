@@ -11,6 +11,15 @@ Versioned JSON Schema and JSON-LD context definitions for CommonsDB metadata dec
 
 Reference these files via w3id.org persistent URLs:
 
+### Version 0.2.0 (latest)
+
+| Format          | URL                                          |
+| --------------- | -------------------------------------------- |
+| **JSON Schema** | https://w3id.org/commonsdb/schema/0.2.0.json |
+| **JSON-LD**     | https://w3id.org/commonsdb/context/0.2.0.json |
+
+### Version 0.1.0
+
 | Format          | URL                                          |
 | --------------- | -------------------------------------------- |
 | **JSON Schema** | https://w3id.org/commonsdb/schema/0.1.0.json |
